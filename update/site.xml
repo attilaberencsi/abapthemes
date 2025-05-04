@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.sapdev.eu.theme.feature_1.0.0.202505041800.jar" id="com.sapdev.eu.theme.feature" version="1.0.0.202505041800" os="win32">
-      <category name="Themes"/>
+   <feature url="features/com.sapdev.eu.theme.feature_1.0.0.202505042131.jar" id="com.sapdev.eu.theme.feature" version="1.0.0.202505042131" os="win32">
+      <category name="com.sapdev.eu.theme"/>
    </feature>
-   <category-def name="Themes" label="Themes"/>
+   <category-def name="com.sapdev.eu.theme" label="sapdev.eu"/>
 </site>
