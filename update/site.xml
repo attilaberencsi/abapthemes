@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="sapdev.eu - ABAP Themes" url="https://attilaberencsi.github.io/abapthemes/update/">
-      Theme for ABAP Projects and ADT Objects
-   </description>
-   <feature url="features/com.sapdev.eu.theme.feature_1.2.2700.202505102230.jar" id="com.sapdev.eu.theme.feature" version="1.2.2700.202505102230" os="win32">
-      <category name="com.sapdev.eu.theme"/>
+   <feature url="features/com.sapdev.eu.themes.feature_1.2.2700.1.jar" id="com.sapdev.eu.themes.feature" version="1.2.2700.1" os="win32">
+      <category name="sapdev.eu"/>
    </feature>
-   <category-def name="com.sapdev.eu.theme" label="sapdev.eu"/>
+   <category-def name="sapdev.eu" label="sapdev.eu"/>
 </site>
