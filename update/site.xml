@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <description name="sapdev.eu - ABAP Themes" url="https://attilaberencsi.github.io/abapthemes/update/">
+      Extension of the Dark Theme, plus Included Light Theme: ABAP Paper Work
+   </description>
    <feature url="features/com.sapdev.eu.themes.feature_1.2.2700.1.jar" id="com.sapdev.eu.themes.feature" version="1.2.2700.1" os="win32">
       <category name="sapdev.eu"/>
    </feature>
