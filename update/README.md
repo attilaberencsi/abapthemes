@@ -1,3 +1,11 @@
-# ABAP Developer Tool - Themes
+# Themes for ABAP Development Tool
 
-## Work In Progress :point_up:
+## Installation
+
+Help - Install New Software...
+
+https://attilaberencsi.github.io/abapthemes/update
+
+## Documentation
+
+sapdev.eu
