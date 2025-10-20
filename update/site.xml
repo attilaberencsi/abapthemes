@@ -3,6 +3,8 @@
    <description name="sapdev.eu - ABAP Themes" url="https://attilaberencsi.github.io/abapthemes/update/">
       Extension of the Dark Theme, plus Included Light Theme: ABAP Paper Work
    </description>
-   <feature url="features/com.sapdev.eu.themes.feature_1.2.2700.6.jar" id="com.sapdev.eu.themes.feature" version="1.2.2700.6" os="win32"/>
+   <feature url="features/com.sapdev.eu.themes.feature_1.2.2700.7.jar" id="com.sapdev.eu.themes.feature" version="1.2.2700.7" os="win32">
+      <category name="sapdev.eu"/>
+   </feature>
    <category-def name="sapdev.eu" label="sapdev.eu"/>
 </site>
