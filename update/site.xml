@@ -6,7 +6,7 @@
         - Ninja Turtles, a mint theme
         - Extension of the built-in Dark Theme
    </description>
-   <feature url="features/com.sapdev.eu.themes.feature_1.2.2900.1.jar" id="com.sapdev.eu.themes.feature" version="1.2.2900.1" os="win32">
+   <feature url="features/com.sapdev.eu.themes.feature_1.2.2900.2.jar" id="com.sapdev.eu.themes.feature" version="1.2.2900.2" os="win32">
       <category name="sapdev.eu"/>
    </feature>
    <category-def name="sapdev.eu" label="sapdev.eu">
